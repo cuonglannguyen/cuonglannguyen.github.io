@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Lan-Cuong Nguyen"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : Lan-Cuong Nguyen
 description              : &description "personal description"
 url                      : https://cuonglannguyen.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,9 +23,9 @@ repository               : "cuonglannguyen/cuonglannguyen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lan-Cuong Nguyen"
   pronouns         : he/him  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "AI Resident"
   location         : "Hanoi, Vietnam"
   employer         : "FPT Software AI Center"
   uri              : # URL
@@ -68,7 +68,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : lan_cuongNguyen
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
