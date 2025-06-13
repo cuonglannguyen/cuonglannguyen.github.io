@@ -2,9 +2,9 @@
 title: "Teaching assistant"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2024-spring-teaching
 venue: "Hanoi University of Science, Vietnam National University"
-date: 2024-03
+date: 2024-03-05
 location: "Hanoi, Vietnam"
 ---
 
