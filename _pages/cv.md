@@ -23,7 +23,6 @@ Work experience
 * Fall 2023: Data Engineer Intern
   * FPT Software, FPT Corporation
   * Duties included: Build an user segmentation pipeline using Apache PySpark and Airflow, Deploy the service to Amazon Web Services.
-  * Supervisor: Professor Hub
 
 * Summer 2024 - present: AI Reasearch Resident
   * [AI Center](https://wp.fpt-aic.com/), FPT Software, FPT Corporation
