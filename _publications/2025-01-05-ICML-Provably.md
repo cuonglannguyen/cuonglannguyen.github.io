@@ -2,9 +2,9 @@
 title: "Provably Improving Generalization of Few-Shot Models with Synthetic Data"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2025-01-05-ICML-Provably
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-05-01
+date: 2025-05-01
 venue: 'International Conference on Machine Learning (ICML)'
 paperurl: 'https://openreview.net/pdf?id=L6U7nYc4ah'
 ---
