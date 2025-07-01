@@ -1,7 +1,7 @@
 ---
 title: "Provably Improving Generalization of Few-Shot Models with Synthetic Data"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2025-05-01-ICML-Provably
 excerpt: 'The paper provides a theoretical-guided method for few-shot learning.'
 date: 2025-05-01
