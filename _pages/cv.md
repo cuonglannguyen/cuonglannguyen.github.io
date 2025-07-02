@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Data Science and Artificial Intelligence, Hanoi University of Science and Technology, 2024
 
-Work experience
+Research/Working positions
 ======
 * Spring 2022 - Summer 2024: Research Assistant
   * Data Science Laboratory, Hanoi University of Science and Technology
