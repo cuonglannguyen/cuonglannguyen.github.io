@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there, I'm Lan-Cuong Nguyen (Nguyễn Lân Cường). I'm an incoming PhD student at [CS@Max Planck](https://www.cis.mpg.de/csmax-planck-admissions/). Previuosly, I was an AI Research Resident at FPT Software AI Center and received my Bachelor's Degree from Hanoi University of Science and Technology (HUST). 
+Hello there, I'm Lan-Cuong Nguyen (Nguyễn Lân Cường). I'm an incoming PhD student at [CS@Max Planck](https://www.cis.mpg.de/csmax-planck-admissions/). Previously, I was an AI Research Resident at FPT Software AI Center and received my Bachelor's Degree from Hanoi University of Science and Technology (HUST). 
 
 I was fortunately advised by Prof. [Khoat Than](https://users.soict.hust.edu.vn/khoattq/) from HUST and Prof. [Long Tran-Thanh](https://warwick.ac.uk/fac/sci/dcs/people/long_tran-thanh/) from University of Warwick since my undergrad years and by Prof. [Dung D.Le](https://andrew-dungle.github.io) from VinUniversity in the residency program. I also had wonderful opportunities to being advised by Prof. [Hongkai Wen](https://hongkaiw.github.io/) from University of Warwick and Dr. [Katie Luo](https://www.cs.cornell.edu/~katieluo/) from Stanford University in my different projects.
 
